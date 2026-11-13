@@ -1,0 +1,3 @@
+# Gold and silver, as COMEX futures on Yahoo (GC=F, SI=F). Add MGC or SIL for the micros if you like.
+GOLD
+SILVER

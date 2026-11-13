@@ -1,0 +1,12 @@
+{
+  "name": "day-trader-skill-metals",
+  "description": "8 Claude skills for day trading gold and silver (XAUUSD, XAGUSD via COMEX GC=F / SI=F): scan, news, entry and exit timing, a 10,000-replay time machine, lot sizing with leverage, risk checks and alerts, on a Dubai clock (session 12:00-23:30). Never places an order. Adapted from the India edition by Shakir C, based on Jake Schincariol's day-trader-skill (MIT).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jake Schincariol",
+    "url": "https://opusjake.ai"
+  },
+  "license": "MIT",
+  "keywords": ["claude-skills", "day-trading", "gold", "silver", "xauusd", "xagusd", "opening-range-breakout", "backtesting"],
+  "skills": "./"
+}

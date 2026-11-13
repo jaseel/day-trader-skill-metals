@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "day-trader-skill-metals",
+  "description": "Day Trader skill pack for Claude, gold and silver edition (Dubai clock). Based on Jake Schincariol's day-trader-skill (MIT).",
+  "owner": {
+    "name": "Jaseel Jaleel"
+  },
+  "plugins": [
+    {
+      "name": "day-trader-skill-metals",
+      "description": "Gold and silver only: COMEX GC=F / SI=F prices, Dubai session 12:00-23:30, CME metals holidays, lot sizing with leverage, metals news tags. Scanner, news, entry timer, exit planner, 10,000-replay time machine, budget, risk and alerts. Never places an order.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

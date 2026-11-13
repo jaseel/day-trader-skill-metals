@@ -1,0 +1,9 @@
+{
+  "rules": [
+    {"id": "opening-bell", "type": "opening_bell"},
+    {"id": "gold-plan-stop", "symbol": "GOLD", "type": "stop", "price": 4067.00, "note": "plan stop: opening-range midpoint", "date": "2026-11-13"},
+    {"id": "gold-plan-target", "symbol": "GOLD", "type": "target", "price": 4091.00, "note": "plan target: 2R", "date": "2026-11-13"},
+    {"id": "gold-flat-by", "symbol": "GOLD", "type": "time", "at": "23:15", "label": "flat by close", "before_close": true, "date": "2026-11-13"},
+    {"id": "silver-move-2", "symbol": "SILVER", "type": "pct_move", "pct": 2}
+  ]
+}
